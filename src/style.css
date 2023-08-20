@@ -1,0 +1,19 @@
+.user-list {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  
+  .user-list h1 {
+    font-size: 1.5rem;
+  }
+  
+  .user-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-list li {
+    padding: 0.5rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
